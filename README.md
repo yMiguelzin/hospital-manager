@@ -106,7 +106,7 @@ VALUES ('Dr. João', 'joao@example.com', 'senha123');
 
 ## Licença
 <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-FE251B?style=flat-square">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-2db83d?style=flat-square">
 </a>
 
 <br>
