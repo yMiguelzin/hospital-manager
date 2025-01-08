@@ -1,0 +1,31 @@
+.load {
+  background-image: url(../img/load.gif);
+  width: 100px;
+  height: 100px;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  display: none;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+.container {
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+.table th,
+.table td {
+  text-align: center;
+}
+
+.btn-danger {
+  color: #fff;
+}
