@@ -11,14 +11,14 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="login.png" width="45%" alt="Screenshot" >
+<p align="left">
+  <img src="login.png" width="55%" alt="Screenshot" >
 </p>
 
 <br>
 
-<p align="center">
-  <img src="sistema_hospital.png" width="45%" alt="Screenshot" >
+<p align="left">
+  <img src="sistema_hospital.png" width="55%" alt="Screenshot" >
 </p>
 ## Tópicos
 
