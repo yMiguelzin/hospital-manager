@@ -94,3 +94,16 @@ VALUES ('Dr. João', 'joao@example.com', 'senha123');
 
 <br>
 
+## Licença
+<a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-FE251B?style=flat-square">
+</a>
+
+<br>
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+Feito com ❤️ por [Miguel Preto](https://github.com/yMiguelzin)
+
