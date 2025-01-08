@@ -11,15 +11,6 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="login.png" width="55%" alt="Screenshot" >
-</p>
-
-<br>
-
-<p align="left">
-  <img src="sistema_hospital.png" width="55%" alt="Screenshot" >
-</p>
 ## Tópicos
 
 - [Sobre o Projeto](#sobre-o-projeto)  
@@ -33,6 +24,10 @@
 ## Sobre o Projeto
 
 Este projeto é um **sistema de gestão hospitalar**, desenvolvido com PHP, que permite aos médicos se cadastrarem, fazerem login e gerenciarem as consultas dos pacientes de forma eficaz. Com funcionalidades para criar, consultar, editar e excluir consultas, além de um banco de dados MySQL para persistência dos dados.
+
+<p align="left">
+  <img src="login.png" width="55%" alt="Screenshot" >
+</p>
 
 <br>
 
@@ -100,6 +95,12 @@ CREATE TABLE clientes (
 INSERT INTO usuarios (usu_nome, usu_email, usu_senha)
 VALUES ('Dr. João', 'joao@example.com', 'senha123');
 ```
+
+<br>
+
+<p align="left">
+  <img src="sistema_hospital.png" width="55%" alt="Screenshot" >
+</p>
 
 <br>
 
