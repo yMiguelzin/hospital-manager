@@ -3,7 +3,7 @@
 🏥 **Sistema de Gestão Hospitalar com PHP | Projeto**
 
 <p>
-  <img src="https://img.shields.io/badge/made%20by-MIGUEL%20PRETO-11823b?style=flat-square">
+  <img src="https://img.shields.io/badge/made%20by-Miguel%20Marostica-11823b?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yMiguelzin/hospital-manager?color=11823b&style=flat-square">
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/yMiguelzin/hospital-manager?color=11823b&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
@@ -115,5 +115,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com 💚 por [Miguel Preto](https://github.com/yMiguelzin)
+Feito com 💚 por [Miguel Marostica](https://github.com/yMiguelzin)
 
